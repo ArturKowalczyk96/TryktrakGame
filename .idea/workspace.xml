@@ -14,9 +14,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfb32974-f95b-4b88-9caf-c987bc07c75a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/PionBialy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/PionCzerwony.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Table.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
@@ -24,7 +21,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ak/tryktrak/Tryktrak.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/ak/tryktrak/Tryktrak.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ak/tryktrak/Tryktrak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ak/tryktrak/Tryktrak.java" afterDir="false" />
@@ -106,15 +102,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -155,7 +149,8 @@
       <workItem from="1603531312264" duration="2537000" />
       <workItem from="1603536002308" duration="12000" />
       <workItem from="1603536838627" duration="1251000" />
-      <workItem from="1603641344002" duration="4334000" />
+      <workItem from="1603641344002" duration="4953000" />
+      <workItem from="1603743193900" duration="3498000" />
     </task>
     <servers />
   </component>
@@ -190,25 +185,25 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1603538094881" />
-    <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1603655338541">
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1603746720969">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603655338541" />
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603746720969" />
     <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603538100292" />
-    <state width="1877" height="237" key="GridCell.Tab.0.center" timestamp="1603655338540">
+    <state width="1877" height="237" key="GridCell.Tab.0.center" timestamp="1603746720968">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="237" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603655338540" />
+    <state width="1877" height="237" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603746720968" />
     <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603538100292" />
-    <state width="1877" height="237" key="GridCell.Tab.0.left" timestamp="1603655338540">
+    <state width="1877" height="237" key="GridCell.Tab.0.left" timestamp="1603746720968">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="237" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603655338540" />
+    <state width="1877" height="237" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603746720968" />
     <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603538100292" />
-    <state width="1877" height="237" key="GridCell.Tab.0.right" timestamp="1603655338540">
+    <state width="1877" height="237" key="GridCell.Tab.0.right" timestamp="1603746720968">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="237" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603655338540" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1603746720968" />
     <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603538100292" />
   </component>
 </project>
